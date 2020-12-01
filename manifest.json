@@ -1,0 +1,10 @@
+{
+    "framework-esp8266-rtos-sdk": [
+      {
+        "sha1": "4e83594b746946a5fe1149373188b6eab82da504",
+        "system": "*",
+        "url": "https://github.com/espressif/ESP8266_RTOS_SDK/releases/download/v3.3/ESP8266_RTOS_SDK-v3.3.zip",
+        "version": "3.3.0"
+      }
+    ]
+  }
